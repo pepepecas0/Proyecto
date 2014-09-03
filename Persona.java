@@ -1,4 +1,6 @@
 class Persona{
 String nombre;
-int puebla;
+String apellido;
+int Edad;
+int años;
 }
